@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front End`**
 
-Me chamo Victor Hugo, tenho 20 anos e sou natural da Bahia. Atualmente, estou cursando Análise e Engenharia de Software na UVV.
+Me chamo Victor Hugo, tenho 20 anos e sou natural da Bahia. Atualmente, estou cursando Engenharia de Software na UVV.
 
 
 
